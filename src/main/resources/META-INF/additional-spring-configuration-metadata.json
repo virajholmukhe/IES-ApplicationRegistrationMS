@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "aadharService.validateUser.api",
+    "type": "java.lang.String",
+    "description": "A description for 'aadharService.validateUser.api'"
+  },
+  {
+    "name": "aadharService.validateUser.api",
+    "type": "java.lang.String",
+    "description": "A description for 'aadharService.validateUser.api'"
+  }
+]}
